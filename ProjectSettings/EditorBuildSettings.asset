@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0e57ed004d6379f469428995e8dfdaa7
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 251d35c2feaa6c44cbbcd9289ab01887
+  - enabled: 1
+    path: Assets/Scenes/FirstSteps.unity
+    guid: 12ffeae46c04f5a4ca41e7fded4c4ec2
+  - enabled: 1
+    path: Assets/Scenes/Sleeping.unity
+    guid: e7e8e9605ee8e6c4fb1b4b8d96fa7ad9
+  - enabled: 1
+    path: Assets/Scenes/Hidden.unity
+    guid: 05f37953e13ab5f47bda18d662b01be4
+  - enabled: 1
+    path: Assets/Scenes/Awareness.unity
+    guid: b914816dc5f90934bbf0457f48000fa0
+  - enabled: 1
+    path: Assets/Scenes/LookBothWays.unity
+    guid: 8dad0be94ba6eca40a6f4b6a51d785ff
+  - enabled: 1
+    path: Assets/Scenes/Cover.unity
+    guid: c0ce25d9291e9d2419b4d3724b3a7b65
+  - enabled: 1
+    path: Assets/Scenes/Static.unity
+    guid: 8bb36cb318421374e9b5d2e2279522f5
+  - enabled: 1
+    path: Assets/Scenes/FriendlyFire.unity
+    guid: 462c16074be1aaf498851d706039ad52
+  - enabled: 1
+    path: Assets/Scenes/Backstab.unity
+    guid: 9e56c236f22159649abc7295b83d7d19
+  - enabled: 1
+    path: Assets/Scenes/Ambush.unity
+    guid: bfcb0af1c15b3b44ba902a6f55eae22e
+  - enabled: 1
+    path: Assets/Scenes/Breaching.unity
+    guid: d757b630b38df6743a64073f5811fd46
+  - enabled: 1
+    path: Assets/Scenes/RunNJump.unity
+    guid: 5a4edfbb44fbf3142b8696ea6ba5845e
+  - enabled: 1
+    path: Assets/Scenes/KeepItAlive.unity
+    guid: 2a85a376ee1cbe644aa30e192a683c87
+  - enabled: 1
+    path: Assets/Scenes/Surprise.unity
+    guid: d423278473a8ba0459e09b459b0a3e1e
+  - enabled: 1
+    path: Assets/Scenes/HopSkipAndJump.unity
+    guid: 2652951625e3f874fbe8c91d3a638f42
+  - enabled: 1
+    path: Assets/Scenes/Careful.unity
+    guid: 113cd892c2f968645a4c69c3f8b81928
+  - enabled: 1
+    path: Assets/Scenes/OpenSpaces.unity
+    guid: e997847add765bd4881a62c279d0617f
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 7828125c7fe42124693e734d516f7d20
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 9caa783d32a6c4b479561486b1de7535, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 68bb2a3139302484a884ad2cd99b2523, type: 2}
